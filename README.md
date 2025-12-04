@@ -10,7 +10,7 @@ A través del análisis de datos, dimos respuesta a las siguientes interrogantes
 3.  **¿Qué países lideran las ventas?**.
 
 ### 🛠️ Tech Stack
-* **Lenguaje:** Python 🐍
+* **Lenguaje:** Python 
 * **Manipulación de Datos:** Pandas, Numpy.
 * **Visualización:** Matplotlib, Seaborn.
 * **Datos:** Dataset transaccional de ventas.
@@ -47,3 +47,4 @@ Tras el análisis, se destacan los siguientes hallazgos:
 
 ---
 *Este proyecto forma parte de mi portafolio profesional como Analista de Datos.*
+
